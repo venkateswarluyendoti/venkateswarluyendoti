@@ -36,7 +36,7 @@
 
 ## 📌 Featured Projects
 - **End-to-End CI/CD for Java on Kubernetes** — Jenkins pipeline → SonarQube → Docker → Argo CD to K8s with RBAC  
-  `jenkins` · `sonarqube` · `docker` · `kubernetes` · `helm` · `argocd`  
+  `jenkins` · `sonarqube` · `docker` · `kubernetes` · `argocd`  
 - **AWS Cost Optimization with Lambda & Boto3** — CloudWatch-triggered Lambda cleans unused EBS snapshots; logs/alerts & least-privilege IAM  
   `lambda` · `python` · `boto3` · `cloudwatch` · `iam`
 - **Kubernetes Security Governance with Kyverno** — Enforce CPU/memory limits via admission policies; automated validation & troubleshooting  

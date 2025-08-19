@@ -36,7 +36,8 @@
 
 ## 📌 Featured Projects
 - **End-to-End CI/CD for Spring Boot Java Application on Kubernetes** — Jenkins Pipeline → SonarQube Analysis → Trivy Security Scan → Docker Build & Push → Kubernetes       Deployment on Minikube → Argo CD GitOps Sync
-`aws ec2`· `jenkins` · `sonarqube` · `trivy` · `docker` · `kubernetes(minikube)` · `argocd`
+
+  `aws ec2`· `jenkins` · `sonarqube` · `trivy` · `docker` · `kubernetes(minikube)` · `argocd`
 - **AWS Cost Optimization with Lambda & Boto3** — CloudWatch-triggered Lambda cleans unused EBS snapshots; logs/alerts & least-privilege IAM  
   `lambda` · `python` · `boto3` · `cloudwatch` · `iam`
 - **Kubernetes Security Governance with Kyverno** — Enforce CPU/memory limits via admission policies; automated validation & troubleshooting  

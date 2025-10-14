@@ -35,9 +35,13 @@
 ---
 
 ## 📌 Featured Projects
-- **End-to-End CI/CD for Spring Boot Java Application on Kubernetes** — Jenkins Pipeline → SonarQube Analysis → Trivy Security Scan → Docker Build & Push → Kubernetes       Deployment on Minikube → Argo CD GitOps Sync
+- **End-to-End CI/CD Pipeline for Spring Boot Java Application using Jenkins, SonarQube, Trivy, Docker, Helm, and Argo CD (GitOps) — Deployed on Kubernetes (Minikube & AWS EKS)**
 
-  `aws ec2`· `jenkins` · `sonarqube` · `trivy` · `docker` · `kubernetes(minikube)` · `argocd`
+- **Pipeline Flow**:
+Jenkins Pipeline → SonarQube Code Analysis → Trivy Security Scan → Docker Build & Push → Helm Deployment on Minikube → Argo CD GitOps Sync → AWS EKS Production Deployment
+
+
+  `AWS EC2` · `Jenkins` · `SonarQube` · `Trivy` · `Docker` · `Helm` · `Kubernetes (Minikube & EKS)` · `Argo CD` · `GitHub`
   
 - **AWS Cost Optimization with Lambda & Terraform** — Automates cleanup of unused EBS snapshots using Lambda, Boto3, and Terraform. Triggered by EventBridge, with logging and least-privilege IAM for scalability and cost efficiency.
   

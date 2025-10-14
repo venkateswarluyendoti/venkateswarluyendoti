@@ -41,7 +41,7 @@
   
 - **AWS Cost Optimization with Lambda & Terraform** — Automates cleanup of unused EBS snapshots using Lambda, Boto3, and Terraform. Triggered by EventBridge, with logging and least-privilege IAM for scalability and cost efficiency.
   
-`lambda` · `terraform` · `python` · `boto3` · `eventbridge` · `iam` · `aws` · `cost-optimization`
+  `lambda` · `terraform` · `python` · `boto3` · `eventbridge` · `iam` · `aws` · `cost-optimization`
 
 - **Kubernetes Security Governance with Kyverno** — Enforce CPU/memory limits via admission policies; automated validation & troubleshooting  
   `kyverno` · `policies` · `rbac` · `observability`

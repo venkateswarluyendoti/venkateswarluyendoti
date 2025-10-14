@@ -38,7 +38,8 @@
 - **End-to-End CI/CD for Spring Boot Java Application on Kubernetes** — Jenkins Pipeline → SonarQube Analysis → Trivy Security Scan → Docker Build & Push → Kubernetes       Deployment on Minikube → Argo CD GitOps Sync
 
   `aws ec2`· `jenkins` · `sonarqube` · `trivy` · `docker` · `kubernetes(minikube)` · `argocd`
--**AWS Cost Optimization with Lambda & Terraform** — Automates cleanup of unused EBS snapshots using Lambda, Boto3, and Terraform. Triggered by EventBridge, with logging and least-privilege IAM for scalability and cost efficiency.
+  
+- **AWS Cost Optimization with Lambda & Terraform** — Automates cleanup of unused EBS snapshots using Lambda, Boto3, and Terraform. Triggered by EventBridge, with logging and least-privilege IAM for scalability and cost efficiency.
   
 `lambda` · `terraform` · `python` · `boto3` · `eventbridge` · `iam` · `aws` · `cost-optimization`
 

@@ -35,7 +35,7 @@
 ---
 
 ## 📌 Featured Projects
-- **End-to-End CI/CD Pipeline for Spring Boot Java Application using Jenkins, SonarQube, Trivy, Docker, Helm, and Argo CD (GitOps) — Deployed on Kubernetes (Minikube & AWS EKS)**
+- **Spring-Boot-CI-CD-Pipeline-with-GitOps — Deployed on Kubernetes (Minikube & AWS EKS)**
 
 - **Pipeline Flow**:
 Jenkins Pipeline → SonarQube Code Analysis → Trivy Security Scan → Docker Build & Push → Helm Deployment on Minikube → Argo CD GitOps Sync → AWS EKS Production Deployment

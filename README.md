@@ -43,7 +43,7 @@ Jenkins Pipeline → SonarQube Code Analysis → Trivy Security Scan → Docker 
 
   `AWS EC2` · `Jenkins` · `SonarQube` · `Trivy` · `Docker` · `Helm` · `Kubernetes (Minikube & EKS)` · `Argo CD` · `GitHub`
   
-- **AWS Cost Optimization with Lambda & Terraform** — Automates cleanup of unused EBS snapshots using Lambda, Boto3, and Terraform. Triggered by EventBridge, with logging and least-privilege IAM for scalability and cost efficiency.
+- **AWS-Cost-Optimization-with-Lambda-Boto3-Terraform** — Automates cleanup of unused EBS snapshots using Lambda, Boto3, and Terraform. Triggered by EventBridge, with logging and least-privilege IAM for scalability and cost efficiency.
   
   `lambda` · `terraform` · `python` · `boto3` · `eventbridge` · `iam` · `aws` · `cost-optimization`
 

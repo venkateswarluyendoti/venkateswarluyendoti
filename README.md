@@ -43,12 +43,13 @@ Jenkins Pipeline → SonarQube Code Analysis → Trivy Security Scan → Docker 
 
   `AWS EC2` · `Jenkins` · `SonarQube` · `Trivy` · `Docker` · `Helm` · `Kubernetes (Minikube & EKS)` · `Argo CD` · `GitHub`
   
-- **AWS-Cost-Optimization-with-Lambda-Boto3-Terraform** — Automates cleanup of unused EBS snapshots using Lambda, Boto3, and Terraform. Triggered by EventBridge, with logging and least-privilege IAM for scalability and cost efficiency.
+- **AWS-Cost-Optimization-with-Lambda-Boto3-Terraform** — "Automates cleanup of unused EBS snapshots using Lambda, Boto3, and Terraform. Triggered by EventBridge, with logging and least-privilege IAM for scalability and cost efficiency."
   
   `lambda` · `terraform` · `python` · `boto3` · `eventbridge` · `iam` · `aws` · `cost-optimization`
 
-- **Kubernetes Security Governance with Kyverno** — Enforce CPU/memory limits via admission policies; automated validation & troubleshooting  
-  `kyverno` · `policies` · `rbac` · `observability`
+- **Cloud-Native-Kubernetes-Security-and-Monitoring** — “Hands-on Kubernetes security with Kyverno policies, Argo CD GitOps, and Prometheus/Grafana monitoring on Minikube.”
+
+  `kubernetes`, `kyverno`, `argocd`, `gitops`, `prometheus`, `grafana`, `devsecops`
 
 👉 Visit pinned repos below for full READMEs, diagrams, and setup steps.
 

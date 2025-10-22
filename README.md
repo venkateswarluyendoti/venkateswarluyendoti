@@ -7,7 +7,7 @@
 ---
 
 ## 🔗 Quick Links
-- 💼 **LinkedIn:** [linkedin.com/in/venkateswarlu-yendoti-555923280](https://www.linkedin.com/in/venkateswarlu-yendoti-555923280/)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/venkateswarluyendoti/](https://www.linkedin.com/in/venkateswarluyendoti/)
 - ✉️ **Email:** [venkateswarlu.yendoti99@gmail.com](mailto:venkateswarlu.yendoti99@gmail.com)
 
 ---
